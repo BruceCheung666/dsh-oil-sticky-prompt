@@ -27,7 +27,7 @@ Restart Harness, then hard-refresh the browser. After at least one user message 
 To lock a reproducible install, append a commit SHA:
 
 ```sh
-npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-oil-sticky-prompt#COMMIT
+npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-oil-sticky-prompt#fa3241a
 ```
 
 ## What it does

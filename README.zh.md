@@ -27,7 +27,7 @@ npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-oil-sticky-prom
 需要可复现安装时，在仓库地址后加上提交 SHA：
 
 ```sh
-npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-oil-sticky-prompt#COMMIT
+npx @deepseek-ai/dsh plugin --profile web add github:oil-oil/dsh-oil-sticky-prompt#fa3241a
 ```
 
 ## 会做什么
